@@ -1,0 +1,3 @@
+requests == 2.31.0
+python-cartesi == 0.1.1
+cartesi-wallet = 0.0.4
